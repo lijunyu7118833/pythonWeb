@@ -1,2 +1,3 @@
 SQLALCHEMY_DATABASE_URI = 'mysql://root:7118833@127.0.0.1/my_web'
 SERVER_PORT = 8001
+SECRET_KEY = "123123jasdasdasdasd23123"

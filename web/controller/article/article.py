@@ -11,7 +11,6 @@ route_article = Blueprint('article', __name__)
 @route_article.route("/find", methods=["GET", "POST"])
 def find():
     resp = {"errMsg": "查询成功", "data": ""}
-    req = request.get_json()
 
     article = Article.query.filter().all()
     if not article:
