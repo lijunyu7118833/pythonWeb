@@ -1,0 +1,298 @@
+解决win10 cmd下运行python弹出windows应用商店问题
+https://blog.csdn.net/livingbody/article/details/87524946?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+PyCharm 安装教程（Windows）
+https://www.runoob.com/w3cnote/pycharm-windows-install.html
+写 Python 哪个编辑器 / IDE 最好用？
+https://www.zhihu.com/question/331994253
+NameError: name 'raw_input' is not defined
+https://blog.csdn.net/qq_39387856/article/details/93467793
+win10如何修改conf文件默认打开方式
+https://www.kafan.cn/A/7njxgow83p.html
+Notepad++ 下载
+https://blog.csdn.net/qq6759/article/details/88384608
+Python CGI编程详细步骤，和说说我踩的坑！！
+https://blog.csdn.net/qq_36528311/article/details/88560409
+Apache2.2 提示the requested operation has failed并无法启动
+https://blog.csdn.net/aerchi/article/details/50692627
+apache并没有做为windows服务启动 ---- ApacheMonitor.exe start按钮灰色
+https://blog.csdn.net/flyear_cn/article/details/39011077?utm_source=blogxgwz0
+apache cgi 程序： End of script output before headers
+https://blog.csdn.net/weixin_30405421/article/details/99214229
+Python---查看安装路径
+https://blog.csdn.net/justin18chan/article/details/78466057
+Python在Windows进行CGI编程报错Internal Server Error
+https://blog.csdn.net/xyf_1995/article/details/81156682?utm_source=blogxgwz6
+Python + win10 +Apache CGI 错误500的解决方法
+https://blog.csdn.net/iamxiaoguizi/article/details/51484756?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control
+安装mysql后启动mysql提示服务没有响应控制功能的解决方案
+https://blog.csdn.net/xz842913787/article/details/110383389?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-2&spm=1001.2101.3001.4242
+MySQL 8.0.19安装教程(windows 64位)
+https://blog.csdn.net/qq_37350706/article/details/81707862?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+
+k%;uZQLA%2P+
+
+
+MYSQL常见安装错误集:[ERROR] --initialize specified but the data directory has files in it. Abort...
+https://blog.csdn.net/awiw7848/article/details/101518191?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+navicat连接本地数据库报1862错误
+https://blog.csdn.net/m0_37172806/article/details/77374464?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+sqlyog安装详细步骤
+https://blog.csdn.net/lihua5419/article/details/73881837/
+Windows 安装 python MySQLdb模块
+https://blog.csdn.net/weixin_30813225/article/details/97487874?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+pycharm的MySQLdb模块导不进去时解决办法
+https://blog.csdn.net/lq_feixiangdelanqiu/article/details/79169978?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+python 3.7安装MySQLdb
+https://blog.csdn.net/wangyx019/article/details/103510827
+Python 安装pytz
+https://blog.csdn.net/weixin_41990913/article/details/103116811
+PYTHON安装DISTRIBUTE包
+https://www.cnblogs.com/matrixworld/p/5914115.html
+Window下安装Jinja2
+https://blog.csdn.net/u010663668/article/details/54849498
+Flask安装失败问题
+https://blog.csdn.net/m0_43416050/article/details/107112722
+一招解决python pip install 安装库失败
+https://blog.csdn.net/weixin_39416561/article/details/83375409
+git工具的安装与使用
+https://blog.csdn.net/wawawawawawaa/article/details/81172452?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.control
+fatal: unable to read config file ‘C:/Users/xxxx/.gitconfig‘: No such file or directory
+https://blog.csdn.net/hu_jianyue/article/details/108762767
+git clone 出现 unable to access ........
+https://blog.csdn.net/wmliang2003/article/details/104769043?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
+python之第三方库安装方法pip（pip如何设置代理安装库）
+https://blog.csdn.net/lee1169639/article/details/77355405?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
+pip install PyMySql --proxy http://10296255:Lak7118833@proxy.zte.com.cn:80
+Python--pip使用代理
+https://blog.csdn.net/weixin_36485376/article/details/76862535?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control
+MobaXterm的安装和使用
+https://blog.csdn.net/qq_44204058/article/details/99688195
+IntelliJ IDEA 下载安装配置教程（完整版）
+https://blog.csdn.net/weixin_44505194/article/details/104452880
+Webstorm 2020 永久激活破解
+http://www.itspire.cn/article/129.html
+idea 和 WebStorm 配置 http代理 并更换主题
+https://blog.csdn.net/denghan9435/article/details/102398971
+IDEA快捷键设置复制上一行
+https://blog.csdn.net/kealina/article/details/78376795?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control
+
+解决idea连接GitHub提示Invalid authentication data. Connection reset、
+https://blog.csdn.net/HeiSQ/article/details/105796351
+
+Java 运行环境安装（JRE JDK 区别）
+https://blog.csdn.net/qq_36667170/article/details/79323532
+java的安装环境配置详细步骤(https://www.cnblogs.com/qc-id-01/p/10396089.html)
+ https://www.cnblogs.com/qc-id-01/p/10396089.html
+怎么查ip地址 如何查看本机IP
+https://www.pc841.com/article/20111226-4473.html
+win10安装gerrit+Apache
+https://www.jianshu.com/p/d3461f5a1aa0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+apache命令htpasswd生成AuthUserFile
+https://blog.csdn.net/funny_fang/article/details/5481720?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-6.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-6.control
+Apache报错信息之Invalid command 'Order', perhaps misspelled or defined by a module not included in the server config
+https://www.cnblogs.com/libkey/p/6179316.html
+Apache2.2 提示the requested operation has failed并无法启动
+https://blog.csdn.net/aerchi/article/details/50692627
+Apache服务器下载安装启动（Windows环境）
+https://blog.csdn.net/qq_26718271/article/details/54907202?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-11.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-11.control
+gerrit安装
+https://www.jianshu.com/p/4c3ff08ff571
+Gerrit安装部署
+https://www.cnblogs.com/robert871126/p/10416673.html
+git配置用户名和邮箱
+https://blog.csdn.net/xingbaozhen1210/article/details/80342212
+github：ssh key设置的 Key is invalid 问题
+https://jingyan.baidu.com/article/6c67b1d661cd592787bb1e9d.html
+Python异步IO之协程(一):从yield from到async的使用
+https://blog.csdn.net/SL_World/article/details/86597738?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-14.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-14.control
+Python中的可迭代对象、迭代器和生成器的异同点
+https://blog.csdn.net/SL_World/article/details/86507872
+pip install 时报错 ERROR: Could not install packages due to an EnvironmentError: [WinError 5] 拒绝访问（已解决）
+https://blog.csdn.net/weixin_44827418/article/details/105443681
+
+C:\Users\10296255\AppData\Local\Programs\Python\Python39\
+
+django-compressor安装失败
+https://blog.csdn.net/l333f/article/details/102630812
+django 框架使用需要安装的包和其他情况
+https://blog.csdn.net/weixin_45459224/article/details/103539947
+通过cmd切换python2和python3版本
+https://blog.csdn.net/qq471011042/article/details/81067107
+django连接mysql
+https://www.cnblogs.com/zijiyanxi/p/7599052.html
+pycharm注释快捷键
+https://www.cnblogs.com/wind666/p/10645760.html
+OpenStack入门到实战视频教程全集下载（罗勇老师经典教程系列）
+https://blog.csdn.net/open2job/article/details/46576059?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-12.control
+error: Microsoft Visual C++ 14.0 is required问题最佳解决方法
+https://blog.csdn.net/weixin_40547993/article/details/89399825?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control
+AttributeError: module 'time' has no attribute 'clock'
+https://www.cnblogs.com/Liu-Hui/p/13388194.html
+AttributeError module 'time' has no attribute 'clock'
+https://blog.csdn.net/weixin_45161274/article/details/104271623
+Python创建、退出虚拟环境(venv、virtualenv、virtualenvwrapper)
+https://blog.csdn.net/weixin_43463712/article/details/90210108?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
+TypeError: 'float' object is not callable报错及解决方案
+https://blog.csdn.net/nextthen/article/details/86530405
+TypeError: 'float' object is not callable
+https://blog.csdn.net/qq_30468133/article/details/87633673
+Node.js安装详细步骤教程(Windows版)
+https://www.cnblogs.com/aizai846/p/11441693.html
+WebStorm中命令行报错"'npm' 不是内部或外部命令，也不是可运行的程序或批处理文件"
+https://blog.csdn.net/qq_40389276/article/details/100741902
+解决“npm不是内部或外部命令“
+https://blog.csdn.net/weixin_34133829/article/details/94013062?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
+npm start报“npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\XXX\package.json'
+https://blog.csdn.net/weixin_38724114/article/details/91410928
+npm设置代理 proxy、配置国内源
+https://blog.csdn.net/u014717572/article/details/87880825
+npm ERR! Failed at the node-sass@4.13.0 postinstall script.
+https://blog.csdn.net/wxb880114/article/details/103964634/
+node-sass安装失败之npm ERR! Failed at the node-sass@4.12.0 postinstall script.
+https://blog.csdn.net/weixin_30719711/article/details/97609454
+Error:Node Sass version 5.0.0 is incompatible with ^4.0.0 问题解决
+https://blog.csdn.net/weixin_42390302/article/details/109443294
+MySQL插入数据
+https://blog.csdn.net/zhaoxd200808501/article/details/78425552
+python的cls，self，classmethod，staticmethod
+https://blog.csdn.net/xluren/article/details/9168535?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-16.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-16.control
+Python中*args 和**kwargs的用法
+https://blog.csdn.net/chenjinyu_tang/article/details/8136841?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.control
+flask中使用werkzeug.security的generate_password_hash，check_password_hash的使用
+https://blog.csdn.net/h18208975507/article/details/108106506?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.control
+使用werkzeug.security的generate_password_hash加密，及check_password_hash加密及对比
+https://blog.csdn.net/JENREY/article/details/86671552/
+VirtualBox的下载与安装
+https://blog.csdn.net/gufenchen/article/details/91357656
+fuel-openstack的安装
+https://blog.csdn.net/weixin_38264524/article/details/70211100
+Fuel-Openstack的搭建（一）
+https://blog.csdn.net/qq_35180983/article/details/82181496?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-13.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-13.control
+@contextmanager:Python实现with结构的好方法
+https://blog.csdn.net/qq_30242609/article/details/52926646
+Flask 之 flask-SQLAlchemy 的使用
+https://blog.csdn.net/u011146423/article/details/87605812
+webstorm修改主题色和配色
+https://blog.csdn.net/bobby_fu/article/details/84940009
+Python中with的用法
+https://blog.csdn.net/ego_bai/article/details/80873242
+python SQLAlchemy的简单配置和查询
+https://www.cnblogs.com/whycai/p/11963443.html
+Flask-SQLAlchemy
+http://www.pythondoc.com/flask-sqlalchemy/index.html
+pycharm中配置启动Django项目
+https://www.cnblogs.com/xiao-apple36/p/10223626.html
+java笔记--Map的用法
+java创建对象的四种方式
+https://www.cnblogs.com/yunche/p/9530927.html
+Python广告
+http://chh.tebrobot.cn/py/?bd_vid=7723500446379400602
+Python Flask框架中json.dumps()和jsonify()的区别
+https://blog.csdn.net/weixin_44143222/article/details/87943362
+配置maven问题：The JAVA_HOME environment variable is not defined correctly
+https://blog.csdn.net/spiritwjj/article/details/80896729
+JDK1.8下载安装配置
+https://blog.csdn.net/qq_26631651/article/details/82666336?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.control
+十分钟快速Maven下载和安装说明
+https://blog.csdn.net/cs4380/article/details/79158268?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5.control
+Maven仓库使用代理
+https://blog.csdn.net/mmyhs/article/details/81700257
+idea 的 other settings不见了这么弄出来?
+https://zhidao.baidu.com/question/1054214689516943099.html
+IDEA每次打开新的maven项目时都需要重新配置maven home的解决办法
+https://blog.csdn.net/osuifengpiao1/article/details/105870894
+执行maven命令时提示Process terminated
+https://blog.csdn.net/qq_39387856/article/details/106917997?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+Tomcat8安装及配置步骤
+https://blog.csdn.net/gyshun/article/details/80920227?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control
+通过 IDEA 去 Debug Jar包
+https://blog.csdn.net/rainbow702/article/details/64127489?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-8.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-8.control
+Python中if __name__ == '__main__'，__init__和self 的解析
+https://blog.csdn.net/anshuai_aw1/article/details/82344884?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control
+python中exit()的用法
+https://blog.csdn.net/Jinger_Warrior/article/details/77628460?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-3.control
+npm install vue-cli -g
+vue2.0学习——使用webstorm创建一个vue项目
+https://blog.csdn.net/weixin_40877388/article/details/80911934?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control
+HTML+CSS，让div在屏幕中居中（水平居中+垂直居中）方法总结
+https://blog.csdn.net/qq_32623363/article/details/77101971?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+element-ui 表单 改变长度（宽度）
+https://www.cnblogs.com/sy1027/p/12526776.html
+vue表单校验提交报错TypeError: Cannot read property 'validate' of undefined
+https://element.eleme.cn/#/zh-CN/component/form
+ES6中import xxx from 和 import {xxx} from的区别
+https://blog.csdn.net/mianyao1004/article/details/90605741?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242
+pycharm代码整体左移，右移快捷键
+https://blog.csdn.net/weixin_35834894/article/details/95615448
+Python isinstance() 函数
+https://www.runoob.com/python/python-func-isinstance.html
+Python getattr() 函数
+https://www.runoob.com/python/python-func-getattr.html
+python中yield的用法详解——最简单，最清晰的解释
+https://blog.csdn.net/mieleizhi0522/article/details/82142856
+MySQL 创建数据表
+https://www.runoob.com/mysql/mysql-create-tables.html
+MySQL 建表时的四种key
+https://blog.csdn.net/qq_36827957/article/details/82877430
+MySQL 删除数据表
+https://www.runoob.com/mysql/mysql-drop-tables.html
+Postman接口测试之POST、GET请求方法
+https://www.cnblogs.com/zhuxr/p/9009708.html
+Flask request.get_json()方法报错：AttributeError: 'NoneType' object has no attribute 'get'
+https://blog.csdn.net/ayue1220/article/details/103720212
+【java】this()与super()使用详解
+https://blog.csdn.net/lncsdn_123/article/details/79025525
+使用绝对定位让div居右对齐
+https://blog.csdn.net/java_mrzhang/article/details/100533837
+div下同行多元素右对齐
+https://blog.csdn.net/u014686405/article/details/52689093?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-14.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-14.control
+github获取token
+https://blog.csdn.net/u014175572/article/details/55510825
+sqlalchemy.orm.exc.flusherror：错误解决
+https://blog.csdn.net/weixin_30896825/article/details/94929250
+SQLAlchemy 新增数据
+https://blog.csdn.net/qq_30507163/article/details/103371606
+sqlalchemy的query使用
+https://blog.csdn.net/lv5751394/article/details/97038372
+Sqlalchemy - 数据的更新(*2)、删除
+https://blog.csdn.net/qq_42292831/article/details/96466187
+Python 列表(List)
+https://www.runoob.com/python/python-lists.html
+循环for
+https://www.liaoxuefeng.com/wiki/1016959663602400/1017100774566304
+Dict
+https://www.liaoxuefeng.com/wiki/1016959663602400/1017104324028448
+SQlAlchemy的增删改查
+https://www.cnblogs.com/chenxi67/p/10376617.html
+谷歌浏览器如何设置手机调试模式
+https://jingyan.baidu.com/article/eae07827572b701fec5485ae.html
+关于FLASK中获取TOKEN值时出现TYPEERROR: KEY: EXPECTED BYTES OR BYTEARRAY, BUT GOT ‘NONETYPE‘的问题的解决
+https://www.freesion.com/article/15381235412/
+vue项目遇到的错误(Maximum call stack size exceeded)的解决方法！
+https://blog.csdn.net/qq_19107011/article/details/88746304?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+vue 路由守卫及elementUI 的Message在main.js里的使用
+https://blog.csdn.net/m0_37948170/article/details/88352993
+解决Redirected when going from “/login“ to “/home“ via a navigation guard.重定向问题
+https://blog.csdn.net/weixin_50697909/article/details/109135300
+python Web生成token的几种方法，你确定不进来看看？
+https://www.cnblogs.com/xuchuankun/p/9802710.html
+Python JSON
+https://www.runoob.com/python/python-json.html
+Python 判断一个对象是否存在
+https://www.cnblogs.com/ha-ha-ha/articles/5047901.html
+element-ui表格+分页器数据分页展示
+https://blog.csdn.net/qwe502763576/article/details/81283563?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.control
+Mysql修改字段类型
+https://www.cnblogs.com/-zrj/p/9504009.html
+git checkout 命令详解
+https://blog.csdn.net/longintchar/article/details/82953474?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.control
+rabbitmq 安装过程中遇到的 rabbitmq-plugins不是内部命令或外部命令
+https://blog.csdn.net/weixin_43997764/article/details/104848466
+RabbitMQ Erlang Version Requirements
+https://www.rabbitmq.com/which-erlang.html#compatibility-matrix
+rabbitmqctl (escript: exception error: undefined function rabbitmqctl_escript:main/1)
+https://blog.csdn.net/fly_leopard/article/details/100138921
+安装rabbitmq时 ERLANG_HOME not set correctly异常
+https://blog.csdn.net/liuming690452074/article/details/104539494
+RabbitMQ下载与安装(window版)
+https://blog.csdn.net/xtjatswc/article/details/107294414

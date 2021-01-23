@@ -8,3 +8,9 @@ class Article(db.Model):
     title = db.Column(db.String(200))
     content = db.Column(db.String(200))
     author = db.Column(db.String(200))
+    tag = db.Column(db.String(200))
+    like_count = db.Column(db.Integer)
+    likes = db.Column(db.Integer)
+
+    create_date = db.Column(db.DateTime)
+
