@@ -296,3 +296,64 @@ https://blog.csdn.net/fly_leopard/article/details/100138921
 https://blog.csdn.net/liuming690452074/article/details/104539494
 RabbitMQ下载与安装(window版)
 https://blog.csdn.net/xtjatswc/article/details/107294414
+python – Flask Restful搜索查询
+http://www.voidcn.com/article/p-ditpccnn-bwq.html
+mysql 关于日期时间的字段类型
+https://www.cnblogs.com/diandianquanquan/p/10606989.html
+MySql添加字段命令
+https://www.cnblogs.com/codecat/p/12028845.html
+python 时间格式datetime、str与date的相互转换
+https://blog.csdn.net/df_1818/article/details/82756485?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-11.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-11.control
+怎么在cmd中输入mysql就可以进去mysql控制台
+https://jingyan.baidu.com/article/3052f5a1e23d6997f31f860c.html
+各个平台的mysql重启命令
+https://blog.csdn.net/weixin_39249427/article/details/109200050
+mysql锁表解决方案
+element-ui 标签页（循环遍历）
+https://www.jianshu.com/p/6adb855522ad
+https://www.jianshu.com/p/90cd60ab2d74
+
+
+
+python中list和str互转
+https://www.cnblogs.com/sench/p/8718008.html
+js 数组与字符串之间的相互转换
+https://www.cnblogs.com/prospective-zkq/p/11740262.html
+使用Flask设计带认证token的RESTful API接口[翻译]
+https://www.cnblogs.com/vovlie/p/4182814.html
+vue token的简单理解和使用
+https://blog.csdn.net/qq_42058976/article/details/108432114
+vue中sessionStorage的使用
+https://www.cnblogs.com/denken/p/11197612.html
+js对象取值的两种方式
+https://blog.csdn.net/qq_38382380/article/details/82057379
+sessionStorage储存对象的方式
+https://blog.csdn.net/carl_lzp/article/details/89281389
+python-类对象的遍历操作
+https://www.cnblogs.com/liming19680104/p/10801837.html
+js为一个对象Object添加一个新的属性和值
+https://www.cnblogs.com/cailijuan/p/9360541.html
+python求和函数sum()详解
+https://blog.csdn.net/amuchena/article/details/89060798?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+python 中对list 对象中的记录求和
+https://blog.csdn.net/wangnidji/article/details/84516861
+类属性和对象属性的定义
+https://www.cnblogs.com/w-smile/p/13951588.html
+python判断list是否为空
+https://blog.csdn.net/nciaebupt/article/details/8077519
+虚拟机中的镜像是啥意思啊？
+https://zhidao.baidu.com/question/86328510.html?sort=11&rn=5&pn=0#wgt-answers
+虚拟机是什么，电脑装了虚拟机有什么好处？
+https://zhidao.baidu.com/question/1573855213366548460.html
+网卡是什么？有什么作用吗？
+https://zhidao.baidu.com/question/59561330.html
+网络代理
+https://www.680.com/it/2006/ito-306408.html
+什么叫专用网络什么叫公共网络？
+https://zhidao.baidu.com/question/134907224228890765.html
+虚拟机是什么，电脑装了虚拟机有什么好处？
+https://zhidao.baidu.com/question/1573855213366548460.html
+什么是网关
+https://zhidao.baidu.com/question/1441453.html
+硬盘是什么意思
+https://zhidao.baidu.com/question/127789497.html
